@@ -35,3 +35,13 @@ The website is divided into three sections :
 <li>It includes a payment page where the admin can add the payment details of the student at the time of payment of fees, which include paid fees and balance fees.</li>
 <li>The in-time and out-time of the students in the hostel can be maintained by the admin.</li>
   </ul>
+ <br/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sankalpamokal/Hostel_management_system/master/img/home.JPG" width="500" height="250">
+ <br/>   <em>Sign Up Page</em>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sankalpamokal/Hostel_management_system/master/img/login.JPG" width="500" height="250">
+ <br/>   <em>Login Page</em>
+</p>
+  

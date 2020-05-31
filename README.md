@@ -7,13 +7,13 @@ To find a solution to the problem statement which included features for allocati
 To provide a solution to the above problem we have created a website of hostel management system.
 The website is divided into three sections :
 
-The first section is visible to all the users which visit the website.
+<b>The first section is visible to all the users which visit the website.</b>
 The section includes the homepage where some features about the website is given. , 
 It consists of information page where the detailed information regarding hostel location , various facilities provided , fees structure , rooms details which include type of rooms (like Ac , Non-Ac).
 There is an contact page where any person visiting the site can contact the admin.
 
-The second section is the student login section:
-It contains a signup form for a new student.
+<b>The second section is the student login section:</b>
+Markup : *It contains a signup form for a new student.
 There is separate page where the student can edit his profile.
 It contains a page containing the rules and regulation of the hostel.
 The student can apply for the hostel by filling an application form which includes some student details.
@@ -21,7 +21,7 @@ The student has option of choosing the hostel building and floor according to hi
 There are separate buildings for girls and boys.
 The student can also see the availability of rooms in the vacant rooms page.
 There is status page where when the room is allocated to the student ,it will be notified to the student, it also includes the paid fees and balance fees which will be notified to the student. 
-The third section is the admin login section:
+<b>The third section is the admin login section:</b>
 Password changing facility is provided to the admin.
 There is a application page where the various applications for the rooms sent by the student will be seen.
 The admin can allocate the rooms to the students according to the application id.

@@ -38,7 +38,7 @@ The website is divided into three sections :
  <br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sankalpamokal/Hostel_management_system/master/img/home.JPG" width="900" height="450">
- <br/>   <em>Sign Up Page</em>
+ <br/>   <em>Home age</em>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sankalpamokal/Hostel_management_system/master/img/login.JPG" width="900" height="450">

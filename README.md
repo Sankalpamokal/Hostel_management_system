@@ -13,7 +13,7 @@ It consists of information page where the detailed information regarding hostel 
 There is an contact page where any person visiting the site can contact the admin.
 
 <b>The second section is the student login section:</b>
-*It contains a signup form for a new student.
+<ul><li>It contains a signup form for a new student.<li><ul>
 *There is separate page where the student can edit his profile.
 It contains a page containing the rules and regulation of the hostel.
 The student can apply for the hostel by filling an application form which includes some student details.

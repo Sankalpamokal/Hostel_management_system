@@ -22,8 +22,9 @@ The website is divided into three sections :
 <li>The student has option of choosing the hostel building and floor according to his/her choice, along with type of room like ac /non-ac, mess option with veg and non-veg.</li>
 <li>There are separate buildings for girls and boys.</li>
 <li>The student can also see the availability of rooms in the vacant rooms page.</li>
-<li>There is status page where when the room is allocated to the student ,it will be notified to the student, it also includes the paid fees and balance fees which will be notified to the student.</li> 
+<li>There is status page where when the room is allocated to the student ,it will be notified to the student, it also includes the paid fees and balance fees which will be notified to the student.</li> </ul>
 <b>The third section is the admin login section:</b>
+<ul>
 <li>Password changing facility is provided to the admin.</li>
 <li>There is a application page where the various applications for the rooms sent by the student will be seen.</li>
 <li>The admin can allocate the rooms to the students according to the application id.</li>

@@ -13,8 +13,8 @@ It consists of information page where the detailed information regarding hostel 
 There is an contact page where any person visiting the site can contact the admin.
 
 <b>The second section is the student login section:</b>
-Markup : *It contains a signup form for a new student.
-There is separate page where the student can edit his profile.
+*It contains a signup form for a new student.
+*There is separate page where the student can edit his profile.
 It contains a page containing the rules and regulation of the hostel.
 The student can apply for the hostel by filling an application form which includes some student details.
 The student has option of choosing the hostel building and floor according to his/her choice, along with type of room like ac /non-ac, mess option with veg and non-veg.

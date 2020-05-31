@@ -1,0 +1,30 @@
+<?php
+$dbservername = "localhost";
+$dbusername = "root";
+$dbpassword = "";
+$dbname = "hackathon";
+$hbuilding = $_POST["hbuilding"];							
+$floorno = $_POST["floorno"];
+$roomno = $_POST["roomno"];					 	 	
+$room = $_POST["room"];					 	 	
+$ac = $_POST["ac"];
+$price = $_POST["price"];					 	 			 
+// Create connection
+$conn = new mysqli($dbservername, $dbusername, $dbpassword, $dbname);
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+} 
+
+$sql = "INSERT INTO addroom(hbuilding, floorno, roomno, room, ac, price)
+VALUES('$hbuilding', '$floorno', '$roomno', '$room', '$ac','$price')";
+
+if ($conn->query($sql) === TRUE) {
+    echo "New room created successfully";
+	header("location: addroom.php");
+} else {
+    echo "Error: " . $sql . "<br>" . $conn->error;
+}
+
+$conn->close();
+?>

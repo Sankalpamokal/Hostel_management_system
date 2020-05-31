@@ -37,11 +37,11 @@ The website is divided into three sections :
   </ul>
  <br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sankalpamokal/Hostel_management_system/master/img/home.JPG" width="500" height="250">
+<img src="https://raw.githubusercontent.com/Sankalpamokal/Hostel_management_system/master/img/home.JPG" width="900" height="450">
  <br/>   <em>Sign Up Page</em>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sankalpamokal/Hostel_management_system/master/img/login.JPG" width="500" height="250">
+<img src="https://raw.githubusercontent.com/Sankalpamokal/Hostel_management_system/master/img/login.JPG" width="900" height="450">
  <br/>   <em>Login Page</em>
 </p>
   
